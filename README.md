@@ -1,2 +1,3 @@
 # project1-demo
-this is my git repositary
+this is my first git repositary
+Author-Vashu Sharma
